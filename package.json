@@ -1,0 +1,23 @@
+{
+  "name": "freecodecamp_personal_portfolio_webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emevonlou/freecodecamp_personal_portfolio_webpage.git"
+  },
+  "keywords": [],
+  "author": "Emanuelle Von Lou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emevonlou/freecodecamp_personal_portfolio_webpage/issues"
+  },
+  "homepage": "https://github.com/emevonlou/freecodecamp_personal_portfolio_webpage#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
